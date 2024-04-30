@@ -1,0 +1,6 @@
+const Memos = () => {
+    <>
+    </>
+}
+
+export { Memos };
